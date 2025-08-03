@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-# Başlık ve sayfa ayarları
+# 
 st.set_page_config(page_title="SymptomGPT", layout="centered")
 st.title("🩺 SymptomGPT - AI Health Assistant")
 
